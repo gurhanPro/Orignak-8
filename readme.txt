@@ -1,0 +1,1 @@
+this is a read me file i created while learning git
